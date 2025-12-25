@@ -1,1 +1,1 @@
-# Different Fourier-related math, which is always of use for me, incorporated into a bunch of Jupyter notebooks.
+# Different DSP-related math and simulations, which are always of use for me, are incorporated into a bunch of Jupyter notebooks.
